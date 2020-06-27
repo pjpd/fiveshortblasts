@@ -4,7 +4,7 @@ title: "Five Short Blasts"
 description: "Your intentions are unclear."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /five-short-blasts
+baseurl: 
 google_analytics: 'UA-11488925-4'
 mailchimp-list: 'na'
 include: ["_pages"]
