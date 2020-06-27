@@ -2,7 +2,7 @@
 layout: post
 title:  "Website Build Checklist"
 author: paul
-categories: [ software, web ]
+categories: [ web ]
 tags: []
 image: assets/images/Apollo11Checklist.jpg
 description: "A product owner's guide to not forgetting."

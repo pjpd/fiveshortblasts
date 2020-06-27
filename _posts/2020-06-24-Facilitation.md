@@ -2,7 +2,7 @@
 layout: post
 title:  "Facilication, Or... How I Learned to Stop Worrying and Love Embarrassing Games"
 author: paul
-categories: [ facilitation, management ]
+categories: [ management ]
 tags: [red, yellow]
 image: assets/images/snape-boggart.png
 description: "How I Learned to Stop Worrying and Love Embarrassing Games"
